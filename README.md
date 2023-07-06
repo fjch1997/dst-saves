@@ -12,4 +12,4 @@ TatonSlice
 
 ## Download
 
-[BeargersBeard.gz](BeargersBeard.gz)
+[BeargersBeard.zip](BeargersBeard.zip)
