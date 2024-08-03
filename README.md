@@ -1,4 +1,8 @@
-# Bearger's Beard (2020)
+# Goose's Antler (2024)
+
+## Tentative Start Date
+
+Oct 18, 2024
 
 ## Starring
 
@@ -8,15 +12,20 @@ Profile
 
 E.R.I.N
 
-## Screenshots
+# Deerclop's Eyelash (2022-2023)
 
-![20200717161044_1.jpg](20200717161044_1.jpg)
+## Starring
 
-![20200719145813_1.jpg](20200719145813_1.jpg)
+Nowayim[Crazy]
 
-![20200719145820_1.jpg](20200719145820_1.jpg)
+Profile
 
-# Bearger's Beard
+E.R.I.N
+
+Owen
+
+
+# Bearger's Beard (2021)
 
 ## Starring
 
@@ -37,3 +46,22 @@ TatonSlice
 ## Download
 
 [BeargersBeard.zip](BeargersBeard.zip)
+
+# Bearger's Beard (2020)
+
+## Starring
+
+Nowayim[Crazy]
+
+Profile
+
+E.R.I.N
+
+## Screenshots
+
+![20200717161044_1.jpg](20200717161044_1.jpg)
+
+![20200719145813_1.jpg](20200719145813_1.jpg)
+
+![20200719145820_1.jpg](20200719145820_1.jpg)
+
